@@ -12,3 +12,5 @@ https://cwmasters.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️  by Chris Masters
+
+### ©2019 Run Buddy, inc
